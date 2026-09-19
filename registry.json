@@ -1,7 +1,7 @@
 {
   "payload": {
     "version": 1,
-    "updated_at": "2026-09-19T14:08:26Z",
+    "updated_at": "2026-09-19T14:13:12Z",
     "licenses": {
       "59c261a4b63053e4e4d321d056925154181cc879620d414557906681a4928331": {
         "status": "active",
@@ -20,8 +20,14 @@
         "client": "TestDirect",
         "hwid_hash": "",
         "expires_at": "2026-10-19"
+      },
+      "b3686e16efdddcb47afd34aa0f9e6556a539189994d948c91698d54c33408206": {
+        "status": "active",
+        "client": "Роман Крым",
+        "hwid_hash": "",
+        "expires_at": "never"
       }
     }
   },
-  "signature": "41ce5b952d83cbca7a453f89bcda6d84c4e74a8a0f1750ea5df083641019af60478b2b836c44fd25e2d88631050aca089153a19d6e8ab36de9421558b0d7b50d"
+  "signature": "0402c853f8d7dda339b4d16b14132982e4af1df62207c218d784095e0b6bf33f21c9dfe5fc8dc1f85f9324e0b81a61074a5e7bbee851be0aa7d23dd35143820b"
 }
