@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "version": 1,
+    "updated_at": "2026-09-19T10:47:05Z",
+    "licenses": {
+      "59c261a4b63053e4e4d321d056925154181cc879620d414557906681a4928331": {
+        "status": "active",
+        "client": "TestClient_Alpha",
+        "hwid_hash": "61a1c051c2620b79fe4cd05984cb428c9280d90b72faa20d8cd8336a6960cafd",
+        "expires_at": "2027-09-19"
+      }
+    }
+  },
+  "signature": "9dd9fb4cc6d8cd891c8050d70f6b5ae8b77b4c5cec2929b8fa69c767261ca48df0a57acceeb2adbf276e9f33b4717ab62bb16cb9aaff9f4b2b644105e3e83206"
+}
