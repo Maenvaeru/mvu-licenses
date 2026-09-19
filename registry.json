@@ -1,39 +1,21 @@
 {
   "payload": {
     "version": 1,
-    "updated_at": "2026-09-19T14:22:35Z",
+    "updated_at": "2026-09-19T14:57:53Z",
     "licenses": {
-      "59c261a4b63053e4e4d321d056925154181cc879620d414557906681a4928331": {
-        "status": "active",
-        "client": "TestClient_Alpha",
+      "18ce6be860c0edf2977b7e455789a93f4d583fabe3570583dc2d9825aa1dfbc9": {
+        "status": "admin_master",
+        "client": "Master Administrator (Автор)",
         "hwid_hash": "61a1c051c2620b79fe4cd05984cb428c9280d90b72faa20d8cd8336a6960cafd",
-        "expires_at": "2027-09-19"
-      },
-      "0d44467554fca56c8940daa221db14c9dd286b61282719dc7035f4f5f59cef22": {
-        "status": "active",
-        "client": "TestClient_Beta",
-        "hwid_hash": "",
-        "expires_at": "2027-09-19"
-      },
-      "d7d7aab89d183233348d89057e91e2f64eee39f62ffc51bf20db33aace5f01fc": {
-        "status": "active",
-        "client": "TestDirect",
-        "hwid_hash": "",
-        "expires_at": "2026-10-19"
+        "expires_at": "never"
       },
       "b3686e16efdddcb47afd34aa0f9e6556a539189994d948c91698d54c33408206": {
         "status": "active",
         "client": "Роман Крым",
         "hwid_hash": "",
         "expires_at": "never"
-      },
-      "177e42ac3a280294455487d5a780b1343d6c9f4ebfa779e81a95b37e94e1fcd3": {
-        "status": "active",
-        "client": "Роман Крым",
-        "hwid_hash": "",
-        "expires_at": "2027-09-19"
       }
     }
   },
-  "signature": "48c7b3255117e44a0afeced090ba5d9349ab75d9df6826e7c845520e4ad5f131614396660fa4a4852e0f886faa016c52a0d28537b048f2c6be7272e64663ee04"
+  "signature": "4c476541afceb8874b21fb28e6523c83ef95d8808f268c125289b602c241f012fa7abd8f37e80565c9cca988656b04453bb3b02cb55bfba8b70a610de51c2502"
 }
