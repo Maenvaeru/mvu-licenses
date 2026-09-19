@@ -1,7 +1,7 @@
 {
   "payload": {
     "version": 1,
-    "updated_at": "2026-09-19T14:13:12Z",
+    "updated_at": "2026-09-19T14:22:35Z",
     "licenses": {
       "59c261a4b63053e4e4d321d056925154181cc879620d414557906681a4928331": {
         "status": "active",
@@ -26,8 +26,14 @@
         "client": "Роман Крым",
         "hwid_hash": "",
         "expires_at": "never"
+      },
+      "177e42ac3a280294455487d5a780b1343d6c9f4ebfa779e81a95b37e94e1fcd3": {
+        "status": "active",
+        "client": "Роман Крым",
+        "hwid_hash": "",
+        "expires_at": "2027-09-19"
       }
     }
   },
-  "signature": "0402c853f8d7dda339b4d16b14132982e4af1df62207c218d784095e0b6bf33f21c9dfe5fc8dc1f85f9324e0b81a61074a5e7bbee851be0aa7d23dd35143820b"
+  "signature": "48c7b3255117e44a0afeced090ba5d9349ab75d9df6826e7c845520e4ad5f131614396660fa4a4852e0f886faa016c52a0d28537b048f2c6be7272e64663ee04"
 }
