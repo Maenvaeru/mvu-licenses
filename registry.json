@@ -1,15 +1,21 @@
 {
   "payload": {
     "version": 1,
-    "updated_at": "2026-09-19T10:47:05Z",
+    "updated_at": "2026-09-19T13:55:51Z",
     "licenses": {
       "59c261a4b63053e4e4d321d056925154181cc879620d414557906681a4928331": {
         "status": "active",
         "client": "TestClient_Alpha",
         "hwid_hash": "61a1c051c2620b79fe4cd05984cb428c9280d90b72faa20d8cd8336a6960cafd",
         "expires_at": "2027-09-19"
+      },
+      "0d44467554fca56c8940daa221db14c9dd286b61282719dc7035f4f5f59cef22": {
+        "status": "active",
+        "client": "TestClient_Beta",
+        "hwid_hash": "",
+        "expires_at": "2027-09-19"
       }
     }
   },
-  "signature": "9dd9fb4cc6d8cd891c8050d70f6b5ae8b77b4c5cec2929b8fa69c767261ca48df0a57acceeb2adbf276e9f33b4717ab62bb16cb9aaff9f4b2b644105e3e83206"
+  "signature": "e9cf9e1bc42935754e5173f8f01cf4d9d5f4f426426c3b7bbb4ff716233560c42debfb7dc3e77af487a59910e4eb12056686057664c492ff4f08003b28948f07"
 }
