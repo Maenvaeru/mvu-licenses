@@ -1,7 +1,7 @@
 {
   "payload": {
     "version": 1,
-    "updated_at": "2026-10-06T08:09:46Z",
+    "updated_at": "2026-10-06T08:41:51Z",
     "licenses": {
       "18ce6be860c0edf2977b7e455789a93f4d583fabe3570583dc2d9825aa1dfbc9": {
         "status": "admin_master",
@@ -14,14 +14,8 @@
         "client": "Роман Крым",
         "hwid_hash": "873ae03219c6b64353ef973969564c605f787de6c492c548f9172e8a16571700",
         "expires_at": "never"
-      },
-      "9ad6a42bc7b12d3df8e68d45fca2dcbb105ce970cdee716cf0565e292096546f": {
-        "status": "active",
-        "client": "Кира Вдохновитель",
-        "hwid_hash": "dabfd80a36c1ac1139c30b0cfde706228c39704b88425bf35f91f93c3c9f0a76",
-        "expires_at": "never"
       }
     }
   },
-  "signature": "ce7c765ddc86d43c8373049c6e9875871181906674b04432d25f82d8fe469459069066b2ee7bcedaf626b432ae174a2746ab1c4f8b0ebd879865834e77cba302"
+  "signature": "e3879079703ab50848e554805e1c9925714612d16bfe88f187948063b15944212561a463d2053c72da3281d0b338cbbcd22238cfd766e097d8e7b19541ce3c08"
 }
