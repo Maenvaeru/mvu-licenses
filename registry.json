@@ -1,7 +1,7 @@
 {
   "payload": {
     "version": 1,
-    "updated_at": "2026-10-06T08:02:01Z",
+    "updated_at": "2026-10-06T08:09:46Z",
     "licenses": {
       "18ce6be860c0edf2977b7e455789a93f4d583fabe3570583dc2d9825aa1dfbc9": {
         "status": "admin_master",
@@ -18,10 +18,10 @@
       "9ad6a42bc7b12d3df8e68d45fca2dcbb105ce970cdee716cf0565e292096546f": {
         "status": "active",
         "client": "Кира Вдохновитель",
-        "hwid_hash": "",
+        "hwid_hash": "dabfd80a36c1ac1139c30b0cfde706228c39704b88425bf35f91f93c3c9f0a76",
         "expires_at": "never"
       }
     }
   },
-  "signature": "a926116316335e50e05a7e27a6fc2be3a6b370883ff984e0b8b21891ab0451694ac6517138f9a4a5e0039533e77cde26f8ab6be421c7df8f43fdf8114db82a0d"
+  "signature": "ce7c765ddc86d43c8373049c6e9875871181906674b04432d25f82d8fe469459069066b2ee7bcedaf626b432ae174a2746ab1c4f8b0ebd879865834e77cba302"
 }
